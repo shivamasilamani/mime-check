@@ -1,4 +1,14 @@
 {
-    "name" : "mime-check",
-    "version" : "0.0.0"
+    "name": "mime-check",
+    "description": "NPM mpdule to get the mime type of a file",
+    "version": "0.0.0",
+    "license": "MIT",
+    "repository": "shivamasilamani/mime-check",
+    "main": "index.js",
+    "keywords": [
+        "mime",
+        "mimetype",
+        "filetype",
+        "migic bytes"
+    ]
 }
